@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ana Clara, but most people only call me Clara;
+- 👀 I’m interested in frontend developing;
+- 🌱 I’m currently learning JavaScript, HTML and CSS;
+- 📫 How to reach me ... send a smoke signal;
