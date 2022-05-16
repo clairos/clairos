@@ -1,9 +1,9 @@
 ## Hey there! I'm Ana Clara 😊
 
-- 👋 But most people only call me Clara;
-- 👩‍💻 I’m interested in FrontEnd Developing;
-- 📚 I’m currently learning JavaScript, NodeJS, HTML and CSS;
-- 📫 How to reach me ... send a smoke signal;
+- 👋 But most people only call me Clara
+- 👩‍💻 I’m interested in FrontEnd Developing
+- 📚 I’m currently learning JavaScript, NodeJS, HTML and CSS
+- 📫 How to reach me ... send a smoke signal
 - 😁 Pronouns: she/her
 
 <div align="center">
