@@ -27,9 +27,7 @@
 
 ##
 
-<a href="https://www.youtube.com/watch?v=FZUcpVmEHuk">
-  <h6 align="center">oh hi, thanks for checking in 🎹 i'm still a piece of garbage 🎶</h6>
-</a>
+<a href="https://www.youtube.com/watch?v=FZUcpVmEHuk"><h6 align="center">oh hi, thanks for checking in 🎹 i'm still a piece of garbage 🎶</h6></a>
 
 <div align="center"> 
   <a href ="mailto:claeruh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
