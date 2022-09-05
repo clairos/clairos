@@ -1,7 +1,7 @@
 ## Hey there 👋 I'm Clara
 
 <p align="center">
-:computer: Computer Science student | Front-End Developer in formation :rocket: <br>
+:computer: Computer Science student | Front-End Developer :rocket: | Currently working with Python 🐍 <br>
 </p>
 
 <div align="center" style="display: inline_block"><br>
