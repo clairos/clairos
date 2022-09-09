@@ -28,7 +28,6 @@
     <img align="center" alt="replit" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
   </a>
   <img align="center" alt="sublime" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
-  <img align="center" alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
 </div>
 
 ##
