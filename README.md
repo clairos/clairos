@@ -24,14 +24,6 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clairos&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
-<br>
-<div align="center">
-  <img align="center" alt="vscode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=pink">
-  <a href="https://replit.com/@clarabrusamarel">
-    <img align="center" alt="replit" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white&color=pink">
-  </a>
-  <img align="center" alt="sublime" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=white&color=pink">
-</div>
 
 ##
 
