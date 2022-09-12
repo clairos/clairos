@@ -1,8 +1,11 @@
 ## Hey there <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="28"> I'm Clara
 
-<p align="center">
-<img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif width="15"> Computer Science student | Front-End Developer | Currently working with Python <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/powerup.gif width="15"> <br>
-</p>
+<div align="center" style="display: flex">
+  <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif width="15"> Computer Science student | Front-End Developer | Currently working with Python <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/powerup.gif width="15"> <br><br>
+  
+   ![pcqrGqRXi](https://user-images.githubusercontent.com/71668698/189731939-abc9e4f9-7623-47b4-b1c3-a8d721678268.gif)
+   
+</div>
 
 <div align="center" style="display: inline_block"><br>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
@@ -14,6 +17,7 @@
   </a>
 </div>
 <br>
+
 <div align="center">
   <a href="https://github.com/clairos">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=clairos&show_icons=true&theme=dracula&hide=contribs,issues"/>
