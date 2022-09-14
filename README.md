@@ -21,7 +21,7 @@
 <div align="center">
   <a href="https://github.com/clairos">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=clairos&show_icons=true&theme=dracula&hide=contribs,issues"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clairos&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clairos&layout=compact&langs_count=6&theme=dracula"/>
   </a>
 </div>
 
