@@ -1,7 +1,7 @@
 ## <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="28"> Hey there 
 
 <div align="center" style="display: flex">
-  <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif width="15"> Computer Science student | Front-End Developer | Currently working with Python <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/powerup.gif width="15"> <br><br>
+  <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif width="15"> Computer Science student | Passionate about Front-End developing | Currently working with Python <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/powerup.gif width="15"> <br><br>
   
    ![pcqrGqRXi](https://user-images.githubusercontent.com/71668698/189731939-abc9e4f9-7623-47b4-b1c3-a8d721678268.gif)
    
