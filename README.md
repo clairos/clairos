@@ -31,7 +31,8 @@
 
 ##
 
-
+<div align="center">Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></div>
+<br>
 <div align="center"> 
   <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black&color=pink"></a>
   <a href="mailto:aclarabrusa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black&color=pink" target="_blank"></a>
