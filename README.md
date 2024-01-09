@@ -25,16 +25,9 @@
   </a>
 </div>
 
-##
-
-![Snake animation](https://github.com/clairos/clairos/blob/output/github-contribution-grid-snake.svg)
-
-##
-
 ### <div align="center">Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></div>
 
 <div align="center"> 
-  <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black&color=pink"></a>
   <a href="mailto:aclarabrusa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black&color=pink" target="_blank"></a>
   <a href="https://instagram.com/claeruh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black&color=pink" target="_blank"></a>
   <a href="https://open.spotify.com/user/xuekkld08hrqufar221luzcm7?si=93cc99bdb9944fb5"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=black&color=pink" target="_blank"></a>
