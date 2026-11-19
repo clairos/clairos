@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 380" width="1000" height="380" role="img" aria-labelledby="title desc">
+<title id="title">Hi, I'm Ana Clara</title>
+<desc id="desc">A design canvas where a cursor named Clara selects the name Ana Clara and flips a toggle, while a cursor named you drags a slider.</desc>
+<defs>
+<style>
+@font-face { font-family: "D"; font-weight: 600; src: url(data:font/woff;base64,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) format("woff"); }
+@font-face { font-family: "DM"; font-weight: 500; src: url(data:font/woff;base64,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) format("woff"); }
+@font-face { font-family: "T"; font-weight: 500; src: url(data:font/woff;base64,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) format("woff"); }
+.t { font-family: "T", Inter, "Segoe UI", Helvetica, Arial, sans-serif; font-weight: 500; }
+.hi { font-family: "DM", Inter, "Segoe UI", Helvetica, Arial, sans-serif; font-weight: 500; }
+.name { font-family: "D", Inter, "Segoe UI", Helvetica, Arial, sans-serif; font-weight: 600; letter-spacing: -0.01em; }
+
+.rise { animation: rise .9s cubic-bezier(.2,.7,.2,1) both; }
+.d1 { animation-delay: .25s; } .d2 { animation-delay: .6s; } .d3 { animation-delay: .9s; }
+@keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+
+.loop { animation-duration: 12s; animation-iteration-count: infinite; animation-timing-function: cubic-bezier(.45,0,.25,1); animation-delay: 1s; animation-fill-mode: both; }
+#clara { animation-name: clara; transform: translate(496px, 236px); }
+#you { animation-name: you; transform: translate(850px, 226px); }
+@keyframes clara {
+  0% { transform: translate(1060px, 410px); }
+  8% { transform: translate(1060px, 410px); }
+  20% { transform: translate(87px, 148px); }
+  22% { transform: translate(87px, 148px); animation-timing-function: linear; }
+  31% { transform: translate(490px, 232px); }
+  38% { transform: translate(496px, 236px); }
+  48% { transform: translate(818px, 170px); }
+  52% { transform: translate(818px, 170px); }
+  60% { transform: translate(828px, 176px); }
+  72% { transform: translate(1060px, -40px); }
+  100% { transform: translate(1060px, -40px); }
+}
+@keyframes you {
+  0% { transform: translate(-60px, 420px); }
+  50% { transform: translate(-60px, 420px); }
+  61% { transform: translate(700px, 226px); }
+  63% { transform: translate(700px, 226px); }
+  75% { transform: translate(850px, 226px); }
+  77% { transform: translate(850px, 226px); }
+  86% { transform: translate(730px, 174px); }
+  93% { transform: translate(730px, 174px); }
+  100% { transform: translate(-60px, 420px); }
+}
+
+.press { transform-box: fill-box; transform-origin: 0 0; }
+#clara .press { animation: clickA 12s 1s infinite both; }
+#you .press { animation: clickB 12s 1s infinite both; }
+@keyframes clickA { 0%, 20%, 23%, 48.5%, 51%, 100% { transform: none; } 21%, 22%, 49.5% { transform: scale(.88); } }
+@keyframes clickB { 0%, 61%, 77%, 88%, 90%, 100% { transform: none; } 62%, 76%, 89% { transform: scale(.88); } }
+
+#marquee { transform-box: fill-box; transform-origin: 0 0; animation: marquee 12s 1s infinite both linear; }
+@keyframes marquee {
+  0%, 22% { opacity: 0; transform: scale(0); }
+  22.1% { opacity: 1; transform: scale(0); }
+  31% { opacity: 1; transform: scale(1); animation-timing-function: steps(1); }
+  31.1%, 100% { opacity: 0; transform: scale(1); }
+}
+#sel { animation: sel 12s 1s infinite both; }
+@keyframes sel { 0%, 31% { opacity: 0; } 31.5%, 88% { opacity: 1; } 92%, 100% { opacity: 0; } }
+
+#knob { animation: knob 12s 1s infinite both; }
+#track-on { animation: trackon 12s 1s infinite both; }
+@keyframes knob { 0%, 50% { transform: none; } 53%, 94% { transform: translateX(22px); } 97%, 100% { transform: none; } }
+@keyframes trackon { 0%, 50% { opacity: 0; } 53%, 94% { opacity: 1; } 97%, 100% { opacity: 0; } }
+
+#sknob { animation: sknob 12s 1s infinite both cubic-bezier(.45,0,.25,1); }
+#sfill { transform-box: fill-box; transform-origin: 0 50%; animation: sfill 12s 1s infinite both cubic-bezier(.45,0,.25,1); }
+@keyframes sknob { 0%, 63% { transform: none; } 75%, 95% { transform: translateX(150px); } 100% { transform: none; } }
+@keyframes sfill { 0%, 63% { transform: scaleX(1); } 75%, 95% { transform: scaleX(4.750); } 100% { transform: scaleX(1); } }
+
+#btn-hover { animation: hover 12s 1s infinite both; }
+@keyframes hover { 0%, 85% { opacity: 0; } 86.5%, 93% { opacity: 1; } 95%, 100% { opacity: 0; } }
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; }
+  #marquee, #btn-hover { opacity: 0; }
+}
+</style>
+<pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#FFFFFF" fill-opacity=".07"/></pattern>
+<clipPath id="card"><rect width="1000" height="380" rx="24"/></clipPath>
+</defs>
+
+<g clip-path="url(#card)">
+  <rect width="1000" height="380" fill="#0F1311"/>
+  <rect width="1000" height="380" fill="url(#dots)"/>
+
+  <text x="48" y="48" class="t" font-size="12" fill="#7D8681">hello</text>
+  <rect x="48" y="58" width="904" height="282" fill="#151A17" stroke="#FFFFFF" stroke-opacity=".06"/>
+
+  <text x="98" y="136" class="hi rise" font-size="30" fill="#9BA59F">Hi, I&#8217;m</text>
+  <text x="96" y="222" class="name rise d1" font-size="88" fill="#ECEFEC">Ana Clara</text>
+  <text x="98" y="300" class="t rise d2" font-size="19" fill="#8C958F">Product design, design systems and front-end.</text>
+
+  <rect id="marquee" x="87" y="148" width="403" height="84" fill="#3CB878" fill-opacity=".1" stroke="#3CB878" stroke-width="1"/>
+  <g id="sel">
+    <rect x="87" y="148" width="403" height="84" fill="none" stroke="#3CB878" stroke-width="1.5"/>
+    <rect x="83" y="144" width="8" height="8" fill="#FFFFFF" stroke="#3CB878" stroke-width="1.5"/><rect x="486" y="144" width="8" height="8" fill="#FFFFFF" stroke="#3CB878" stroke-width="1.5"/><rect x="83" y="228" width="8" height="8" fill="#FFFFFF" stroke="#3CB878" stroke-width="1.5"/><rect x="486" y="228" width="8" height="8" fill="#FFFFFF" stroke="#3CB878" stroke-width="1.5"/>
+    <rect x="254.0" y="240" width="69.0" height="20" rx="4" fill="#3CB878"/>
+    <text x="288.5" y="254" text-anchor="middle" class="t" font-size="12" fill="#0F1311">403 × 84</text>
+  </g>
+
+  <g class="rise d3">
+    <text x="640" y="84" class="t" font-size="12" fill="#7D8681">Components</text>
+    <rect x="640" y="96" width="272" height="214" rx="16" fill="#1C221F" stroke="#FFFFFF" stroke-opacity=".08"/>
+    <rect x="660" y="148" width="112" height="40" rx="20" fill="#1B7D4F"/>
+    <rect id="btn-hover" x="660" y="148" width="112" height="40" rx="20" fill="#26A267"/>
+    <text x="716.0" y="173" text-anchor="middle" class="t" font-size="15" fill="#F4F7F5">Say hi</text>
+
+    <rect x="792" y="155" width="48" height="26" rx="13" fill="#FFFFFF" fill-opacity=".14"/>
+    <rect id="track-on" x="792" y="155" width="48" height="26" rx="13" fill="#3CB878"/>
+    <circle id="knob" cx="805" cy="168" r="10" fill="#F4F7F5"/>
+
+    <rect x="660" y="222" width="232" height="4" rx="2" fill="#FFFFFF" fill-opacity=".14"/>
+    <rect id="sfill" x="660" y="222" width="40" height="4" rx="2" fill="#3CB878"/>
+    <circle id="sknob" cx="700" cy="224" r="9" fill="#F4F7F5" stroke="#3CB878" stroke-width="2"/>
+
+    <circle cx="671" cy="283" r="11" fill="#0F3D27" stroke="#FFFFFF" stroke-opacity=".12"/><circle cx="701" cy="283" r="11" fill="#1B7D4F" stroke="#FFFFFF" stroke-opacity=".12"/><circle cx="731" cy="283" r="11" fill="#3CB878" stroke="#FFFFFF" stroke-opacity=".12"/><circle cx="761" cy="283" r="11" fill="#9FE3BF" stroke="#FFFFFF" stroke-opacity=".12"/><circle cx="791" cy="283" r="11" fill="#ECEFEC" stroke="#FFFFFF" stroke-opacity=".12"/>
+  </g>
+
+  <g><g id="you" class="loop"><g class="press">
+    <path d="M0 0 L0 19 L4.6 14.6 L7.6 21.4 L10.6 20.1 L7.7 13.4 L14 13.4 Z" fill="#F7A8CB" stroke="#0F1311" stroke-width="1.2" stroke-linejoin="round"/>
+    <rect x="12" y="20" width="39.1" height="22" rx="11" fill="#F7A8CB"/>
+    <text x="20" y="35.5" class="t" font-size="13" fill="#2A1320">you</text>
+  </g></g></g>
+  <g id="clara" class="loop"><g class="press">
+    <path d="M0 0 L0 19 L4.6 14.6 L7.6 21.4 L10.6 20.1 L7.7 13.4 L14 13.4 Z" fill="#3CB878" stroke="#0F1311" stroke-width="1.2" stroke-linejoin="round"/>
+    <rect x="12" y="20" width="48.6" height="22" rx="11" fill="#3CB878"/>
+    <text x="20" y="35.5" class="t" font-size="13" fill="#0F1311">Clara</text>
+  </g></g>
+  <rect width="999" height="379" x=".5" y=".5" rx="23.5" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
+</g>
+</svg>
