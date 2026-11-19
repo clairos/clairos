@@ -21,19 +21,17 @@
 
 <img align="right" width="120" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt=""/>
 
-I'm a developer from Brazil with a degree in Computer Science from UFFS. My day job is full-stack: Python for RPA and automation, and Vue.js for the apps built around it.
+I'm a developer from Brazil with a degree in Computer Science from UFFS. I currently work as an AI development analyst.
 
 The part I keep coming back to is the one people actually touch. How a screen looks, how its pieces turn into a system of colors, type and components, and how that system becomes front-end code without losing anything on the way. That's where I'm taking my work now: product design, design systems and front-end.
-
-My personal projects are pinned below. More are on the way.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="32" alt=""/> Me, as design tokens
 
 ```css
 :root {
   --name: "Ana Clara";
-  --day-job: "full-stack dev & development analyst";
-  --moving-into: product-design, design-systems, front-end;
+  --day-job: "AI development analyst";
+  --is-passionate-about: product-design, design-systems, front-end;
   --designs-in: figma;
   --builds-with: vue, react, html, css, javascript;
   --side-projects: always-one-open;
