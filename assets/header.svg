@@ -71,10 +71,6 @@
 #btn-hover { animation: hover 12s 1s infinite both; }
 @keyframes hover { 0%, 85% { opacity: 0; } 86.5%, 93% { opacity: 1; } 95%, 100% { opacity: 0; } }
 
-@media (prefers-reduced-motion: reduce) {
-  * { animation: none !important; }
-  #marquee, #btn-hover { opacity: 0; }
-}
 </style>
 <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#FFFFFF" fill-opacity=".07"/></pattern>
 <clipPath id="card"><rect width="1000" height="380" rx="24"/></clipPath>
